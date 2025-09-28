@@ -13,6 +13,7 @@ Making Alice from 2000 work on modern operating systems
 
 **Google Drive:**
 * https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+
 **OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
@@ -42,8 +43,10 @@ Making Alice from 2000 work on modern operating systems
 3. Run the game at least once
 
 4. Download Alice1 from these links: 
+
 **Google Drive:**
 * https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+
 **OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
@@ -74,6 +77,7 @@ Making Alice from 2000 work on modern operating systems
 
 **Google Drive:**
 * https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+
 **OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
