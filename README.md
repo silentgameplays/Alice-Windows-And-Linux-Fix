@@ -11,10 +11,9 @@ Making Alice from 2000 work on modern operating systems
 
 4. Download Alice1 from these links: 
 
-Nextcloud:
-* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
-
-OneDrive:
+**Google Drive:**
+* https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+**OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
 5. Copy the Alice1 folder into ``C:\Program Files\EA Games\Alice Madness Returns\Game``
@@ -43,9 +42,9 @@ OneDrive:
 3. Run the game at least once
 
 4. Download Alice1 from these links: 
-Nextcloud:
-* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
-OneDrive:
+**Google Drive:**
+* https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+**OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
 5. Copy the Alice1 folder into ``C:\Program Files (x86)\Steam\steamapps\common\Alice Madness Returns``
@@ -73,9 +72,9 @@ OneDrive:
 
 4. Download Alice1 from these links: 
 
-Nextcloud:
-* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
-OneDrive:
+**Google Drive:**
+* https://drive.google.com/drive/folders/1nRnvh6j3xip4rYIRuZ2sWJGTu5vkAqXN
+**OneDrive:**
 * https://1drv.ms/f/s!AucCQuV9h2oetA05KHyVw7nV8mRU?e=nUhC8k
 
 5. Copy the Alice1 folder into ``/home/user/.steam/steamapps/common/Alice Madness Returns``
